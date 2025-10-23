@@ -1,0 +1,2 @@
+# Eguzki-Core
+Eguzki Core
